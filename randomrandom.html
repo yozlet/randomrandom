@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Random Random</title>
+  </head>
+
+  <body>
+    <h1>Redirecting...</h1>
+
+    <script type="text/javascript">
+      // URLs taken from John Herrman's superb collection
+      // http://www.theawl.com/2015/04/how-to-make-the-internet-seem-fun-again
+
+      // I don't usually like commas at the front, but I *think* this makes it
+      // easier for non-coders to understand how to add new entries
+      var URLs = [
+         'http://en.wikipedia.org/wiki/Special:Random' // Wikipedia
+        ,'https://www.wolframalpha.com/input/random.jsp' // WolframAlpha query
+        ,'http://gifff.in/fullscreen/' // Fullscreen GIF
+        ,'http://ask.metafilter.com/random' // Ask MetaFilter
+        ,'http://www.imdb.com/random/name' // Random actor
+        ,'http://www.randomwebsite.com/cgi-bin/random.pl' // Random website
+        ,'http://www.wikihow.com/Special:Randomizer' // Random WikiHow
+        ,'http://www.urbandictionary.com/random.php' // Random Urban Dictionary
+        ,'http://www.wikigifs.org/' // Random Wikipedia GIF
+        ,'http://randomstreetview.com/' // Random Street View
+        ,'http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Hazarda_pa%C4%9Do' // Random Esperanto Wikipedia article
+        ,'https://answers.yahoo.com/answer' // Yahoo! Answers: Newest questions
+      ];
+
+      var url = URLs[Math.floor(Math.random()*URLs.length)];
+      window.location = url
+    </script>
+
+</html>
