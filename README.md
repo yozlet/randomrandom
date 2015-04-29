@@ -4,7 +4,7 @@ Your **New Tab** page isn't random enough. Let's make it more _inspirational_.
 
 See, John Herrman made [this fantastic list of randomisers](http://www.theawl.com/2015/04/how-to-make-the-internet-seem-fun-again): you set your New Tab URL to one of the URLs from the list, and each time you spawn a new blank tab you'll see a random Wikipedia page, or street view, or huge GIF - whatever you choose.
 
-But what if _you don't want to choose?_ Then you set your New Tab Page to `http://cdn.rawgit.com/yozlet/randomrandom/master/randomrandom.html`, and a randomiser will be picked from this list:
+But what if _you don't want to choose?_ Then you set your New Tab Page to **http://cdn.rawgit.com/yozlet/randomrandom/master/randomrandom.html** , and a randomiser will be _randomly_ picked from this list:
 
 * [Wikipedia article](http://en.wikipedia.org/wiki/Special:Random)
 * [WolframAlpha query](https://www.wolframalpha.com/input/random.jsp)
@@ -19,7 +19,7 @@ But what if _you don't want to choose?_ Then you set your New Tab Page to `http:
 * [Esperanto Wikipedia article](http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Hazarda_pa%C4%9Do)
 * [Yahoo! Answers: Newest questions](https://answers.yahoo.com/answer) (this is not technically a randomiser, but serves the same purposes)
 
-_(NOTE: I omitted the [random subreddit link](http://www.reddit.com/r/random) because I just couldn't face it. Feel free to fork and reinstate, but you do so at the risk to your own placidity.)_
+_(NOTE: I omitted the [random subreddit link](http://www.reddit.com/r/random) because I just couldn't face it. Feel free to fork and reinstate, but you do so at the risk of severe unhappiness.)_
 
 ## How to use this in your browser
 
